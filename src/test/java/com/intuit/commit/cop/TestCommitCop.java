@@ -11,6 +11,6 @@ public class TestCommitCop {
 	@Test
 	public void testwelcome(){
 		String message = CommitCop.welcome();
-		Assert.assertEquals("Hello World Sahil-5", message);
+		Assert.assertEquals("Hello World Sahil-6", message);
 	}
 }
