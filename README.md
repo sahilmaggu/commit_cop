@@ -1,2 +1,4 @@
-# commit_cop
-test
+commit_cop
+==========
+
+Commit Cop test repository
